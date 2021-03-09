@@ -12,4 +12,4 @@ Objectives :
 
 ![image](https://user-images.githubusercontent.com/67508571/110521047-dcab4000-8141-11eb-8e59-283960ee8464.png)
 
-(Use instruments spectrogram in deep learning path becaues Image-processing not done)
+(Use instrument spectrograms to visualize in deep learning path)
