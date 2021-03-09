@@ -1,4 +1,4 @@
-# Deep-Learning-Algorithm-for-Processing-of-Electroencephalogram
+# Deep-Learning-Algorithm-for-Processing-of-Electroencephalogram (in MATLAB)
 Motivations :
 - Artificial intelligence has become an integral part of many industries.
 - There is a growing interest in brain-computer-interface (BCI) researches.
@@ -9,3 +9,4 @@ Objectives :
 - Reason 2 : To study the characteristic of EEG signal.
 - Reason 3 : To study image pre-processing and feature extraction techniques.
 - Reason 4 : To develop a binary classification algorithm using EEG signals.
+![image](https://user-images.githubusercontent.com/67508571/110521047-dcab4000-8141-11eb-8e59-283960ee8464.png)
